@@ -26851,4 +26851,8 @@ input[type=checkbox].three-state-checkbox + .control-label {
   border-width: 0;
 }
 
+.loginUserInfoContainer {
+  margin-top: 3px;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
